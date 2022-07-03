@@ -13,7 +13,7 @@ Development for board ESP32.
 * Request:
 
 ``` http
-GET http://host/eye
+GET http://scull.home.popov.by/eye
 ```
 
 * Response:
@@ -30,7 +30,7 @@ GET http://host/eye
 * Request:
 
 ``` http
-POST http://host/eye
+POST http://scull.home.popov.by/eye
 Content-Type: application/json
 
 {
